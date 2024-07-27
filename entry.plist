@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = Example1;
+	cell = PSLinkCell;
+	detail = Example1ListController;
+	icon = Example1.png;
+	isController = 1;
+	label = Example1;
+    };
+}

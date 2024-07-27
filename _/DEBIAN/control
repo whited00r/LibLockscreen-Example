@@ -1,0 +1,10 @@
+Package: com.grayd00r.example1
+Name: Example1
+Depends: firmware (>= 6.0), com.grayd00r.liblockscreen
+Version: 0.0.1-47
+Architecture: iphoneos-arm
+Description: Lock, unlock. Simple enough.
+Maintainer: grayd00r
+Author: grayd00r
+Section: Addons (LibLockscreen)
+Installed-Size: 100
